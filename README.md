@@ -8,7 +8,7 @@
 3. Менеджер уточнює запит і час.
 4. Безкоштовний розбір ситуації з радником.
 
-Сайт: https://igoradakhovskiy-cyber.github.io/brave-landing-4k/
+Сайт: https://igoradakhovskiy-cyber.github.io/brave-landing-4k-v2/ (основна версія: https://igoradakhovskiy-cyber.github.io/brave-landing-4k/)
 
 Один файл `index.html` (стилі й скрипти всередині) і папка `assets/`: шрифти Geologica та Onest (OFL), intl-tel-input, логотипи, фото. Зовнішніх залежностей немає, крім Meta Pixel і сервісів визначення країни за IP.
 
